@@ -18,3 +18,7 @@ respectively. I used my screensaver in lieu of the string.
 
 ### Part 3
 
+I have my screensaver playing and when one part of the animation plays, it lights up an LED. Then it turns off the Previous LED, and when
+the next part of the animation plays, it lights up the second LED and so on.
+
+[Part 3 Video](https://imgur.com/a/SsQv2Go)
