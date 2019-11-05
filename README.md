@@ -7,7 +7,7 @@
 
 This is the basic program from the breakout board guide.
 
-[Part 1 Video](imgur.com)
+[Part 1 Video](https://imgur.com/a/nnSLWpz)
 
 ### Part 2
 
