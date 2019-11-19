@@ -27,3 +27,11 @@ the next part of the animation plays, it lights up the second LED and so on.
 # Soil Sensor
 
 #### Part 1
+
+### Part i
+
+This is a basic program that reads an open GPIO pin and lights the LEDS when it detects that the input turns on.
+
+[Part i Video](https://imgur.com/a/iORQLwX)
+
+### Part ii
