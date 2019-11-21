@@ -34,4 +34,11 @@ This is a basic program that reads an open GPIO pin and lights the LEDS when it 
 
 [Part i Video](https://imgur.com/a/iORQLwX)
 
-### Part ii
+### Part iv
+
+We created a program that automatically takes readings of the sensor and then averages them to create a solid baseline reading.
+Then, it takes a new reading and uses the baseline of the averages to then plot a graph on the micro:bit of the reading.
+High is top and Low is bottom
+
+[Part iv Video](https://imgur.com/a/NJZ8Fmx)
+
